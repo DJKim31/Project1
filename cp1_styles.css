@@ -50,8 +50,8 @@
 }
 
 .navbar.navbar-expand-lg.navbar-light.bg-light {
-  justify-content: space-around!important;
-  background-color: white!important;
+  justify-content: space-around !important;
+  background-color: white !important;
   font-family: 'Coming Soon', cursive;
   font-weight: bold;
 }
@@ -121,4 +121,8 @@
 
 .emptybox_c {
   margin-bottom: 5%;
+}
+
+footer {
+  text-align: center;
 }
